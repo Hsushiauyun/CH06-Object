@@ -11,7 +11,11 @@ import android.widget.Toast;
 import java.text.DecimalFormat;
 //---------------------------------------
 public class M0608 extends AppCompatActivity {
-    private Button btn0,btn1,btn2,btn3,btn4,btn5;
+    private Button btn0,btn1;
+    private Button btn2;
+    private Button btn3;
+    private Button btn4;
+    private Button btn5;
     private Button btn6,btn7,btn8,btn9,btn10,btn11;
     private Button btn12,btn13,btn14,btn15;
     private TextView num1;
@@ -35,7 +39,7 @@ public class M0608 extends AppCompatActivity {
         ans = (TextView) findViewById(R.id.m0608_t001);
 //--------------------------------------------------------
         btn0 = (Button) findViewById(R.id.m0608_b000);
-        btn1 = (Button) findViewById(R.id.m0608_b001);
+        btn1= (Button) findViewById(R.id.m0608_b001);
         btn2 = (Button) findViewById(R.id.m0608_b002);
         btn3 = (Button) findViewById(R.id.m0608_b003);
         btn4 = (Button) findViewById(R.id.m0608_b004);

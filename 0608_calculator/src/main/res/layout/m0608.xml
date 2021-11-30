@@ -25,7 +25,7 @@
 
     <Button
         android:id="@+id/m0608_b001"
-        android:layout_width="@dimen/bottom"
+        android:layout_width="@dimen/p50"
         android:layout_height="wrap_content"
         android:layout_below="@+id/m0608_e001"
         android:layout_alignStart="@+id/m0608_b004"
@@ -38,7 +38,7 @@
 
     <Button
         android:id="@+id/m0608_b002"
-        android:layout_width="@dimen/bottom"
+        android:layout_width="@dimen/p50"
         android:layout_height="wrap_content"
         android:layout_alignBaseline="@+id/m0608_b001"
         android:layout_alignBottom="@+id/m0608_b001"
@@ -52,7 +52,7 @@
 
     <Button
         android:id="@+id/m0608_b003"
-        android:layout_width="@dimen/bottom"
+        android:layout_width="@dimen/p50"
         android:layout_height="wrap_content"
         android:layout_alignBaseline="@+id/m0608_b002"
         android:layout_alignBottom="@+id/m0608_b002"
@@ -66,7 +66,7 @@
 
     <Button
         android:id="@+id/m0608_b011"
-        android:layout_width="@dimen/bottom"
+        android:layout_width="@dimen/p50"
         android:layout_height="wrap_content"
         android:layout_alignBaseline="@+id/m0608_b003"
         android:layout_alignBottom="@+id/m0608_b003"
@@ -80,7 +80,7 @@
 
     <Button
         android:id="@+id/m0608_b004"
-        android:layout_width="@dimen/bottom"
+        android:layout_width="@dimen/p50"
         android:layout_height="wrap_content"
         android:layout_below="@+id/m0608_b001"
         android:layout_alignParentStart="true"
@@ -93,7 +93,7 @@
 
     <Button
         android:id="@+id/m0608_b005"
-        android:layout_width="@dimen/bottom"
+        android:layout_width="@dimen/p50"
         android:layout_height="wrap_content"
         android:layout_alignBaseline="@+id/m0608_b004"
         android:layout_alignBottom="@+id/m0608_b004"
@@ -107,7 +107,7 @@
 
     <Button
         android:id="@+id/m0608_b006"
-        android:layout_width="@dimen/bottom"
+        android:layout_width="@dimen/p50"
         android:layout_height="wrap_content"
         android:layout_alignBaseline="@+id/m0608_b005"
         android:layout_alignBottom="@+id/m0608_b005"
@@ -121,7 +121,7 @@
 
     <Button
         android:id="@+id/m0608_b012"
-        android:layout_width="@dimen/bottom"
+        android:layout_width="@dimen/p50"
         android:layout_height="wrap_content"
         android:layout_alignBaseline="@+id/m0608_b006"
         android:layout_alignBottom="@+id/m0608_b006"
@@ -134,7 +134,7 @@
 
     <Button
         android:id="@+id/m0608_b007"
-        android:layout_width="@dimen/bottom"
+        android:layout_width="@dimen/p50"
         android:layout_height="wrap_content"
         android:layout_below="@+id/m0608_b004"
         android:layout_alignParentStart="true"
@@ -147,7 +147,7 @@
 
     <Button
         android:id="@+id/m0608_b008"
-        android:layout_width="@dimen/bottom"
+        android:layout_width="@dimen/p50"
         android:layout_height="wrap_content"
         android:layout_alignBaseline="@+id/m0608_b007"
         android:layout_alignBottom="@+id/m0608_b007"
@@ -161,7 +161,7 @@
 
     <Button
         android:id="@+id/m0608_b009"
-        android:layout_width="@dimen/bottom"
+        android:layout_width="@dimen/p50"
         android:layout_height="wrap_content"
         android:layout_alignBaseline="@+id/m0608_b008"
         android:layout_alignBottom="@+id/m0608_b008"
@@ -175,7 +175,7 @@
 
     <Button
         android:id="@+id/m0608_b013"
-        android:layout_width="@dimen/bottom"
+        android:layout_width="@dimen/p50"
         android:layout_height="wrap_content"
         android:layout_alignBaseline="@+id/m0608_b009"
         android:layout_alignBottom="@+id/m0608_b009"
@@ -188,7 +188,7 @@
 
     <Button
         android:id="@+id/m0608_b000"
-        android:layout_width="@dimen/bottom"
+        android:layout_width="@dimen/p50"
         android:layout_height="wrap_content"
         android:layout_below="@+id/m0608_b007"
         android:layout_alignParentStart="true"
@@ -202,7 +202,7 @@
 
     <Button
         android:id="@+id/m0608_b010"
-        android:layout_width="@dimen/bottom"
+        android:layout_width="@dimen/p50"
         android:layout_height="wrap_content"
         android:layout_alignBaseline="@+id/m0608_b000"
         android:layout_alignBottom="@+id/m0608_b000"
@@ -215,7 +215,7 @@
 
     <Button
         android:id="@+id/m0608_b015"
-        android:layout_width="@dimen/bottom"
+        android:layout_width="@dimen/p50"
         android:layout_height="wrap_content"
         android:layout_alignBaseline="@+id/m0608_b010"
         android:layout_alignBottom="@+id/m0608_b010"
@@ -230,7 +230,7 @@
 
     <Button
         android:id="@+id/m0608_b014"
-        android:layout_width="@dimen/bottom"
+        android:layout_width="@dimen/p50"
         android:layout_height="wrap_content"
         android:layout_alignBaseline="@+id/m0608_b015"
         android:layout_alignBottom="@+id/m0608_b015"
