@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Silver"
+    android:orientation="vertical"
+    android:padding="@dimen/p10"
+    tools:context=".M0501">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:layout_marginTop="@dimen/p10">
+
+        <TextView
+            android:id="@+id/m0501_t001"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="@string/m0501_t001"
+            android:textSize="@dimen/fontsize"
+            android:textStyle="bold" />
+
+        <Spinner
+            android:id="@+id/m0501_s001"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/btn_dropdown"
+            android:entries="@array/m0501_a001"
+            android:popupBackground="@color/Yellow"
+            android:prompt="@string/m0501_s001"
+            android:spinnerMode="dropdown"
+            android:textSize="@dimen/fontsize"
+            tools:ignore="TouchTargetSizeCheck" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="69dp"
+        android:layout_marginTop="@dimen/p10">
+
+        <TextView
+            android:id="@+id/m0501_t002"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="@string/m0501_t002"
+            android:textSize="@dimen/fontsize"
+            android:textStyle="bold"
+            app:autoSizeMinTextSize="@dimen/fontsize" />
+
+        <EditText
+            android:id="@+id/m0501_e001"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/White"
+            android:ems="10"
+            android:gravity="end"
+            android:hint="@string/nospace"
+            android:inputType="numberDecimal"
+            android:text="@string/zero"
+            android:textSize="@dimen/fontsize"
+            tools:ignore="TouchTargetSizeCheck"
+            android:importantForAutofill="no" />
+
+    </TableRow>
+
+    <Button
+        android:id="@+id/m0501_b001"
+        android:layout_width="match_parent"
+        android:layout_height="91dp"
+        android:layout_marginTop="@dimen/p20"
+        android:background="@color/Yellow"
+        android:text="@string/m0501_b001"
+        android:textSize="@dimen/fontsize" />
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/p20">
+
+        <TextView
+            android:id="@+id/m0501_t003"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="@string/m0501_t003"
+            android:textColor="@color/Red"
+            android:textSize="@dimen/fontsize"
+            android:textStyle="bold"
+            tools:ignore="TextContrastCheck" />
+
+    </TableRow>
+
+    <TextView
+        android:id="@+id/m0501_f001"
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:text="@string/m0501_f000"
+        android:textSize="@dimen/fontsize"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/m0501_t005"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/p50"
+        android:gravity="end"
+        android:text="@string/name"
+        android:textSize="@dimen/fontsize" />
+
+</LinearLayout>

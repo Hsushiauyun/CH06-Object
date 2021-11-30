@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m0502_t001">性別:</string>
+    <string name="m0502_s001">性別選擇</string>
+    <string name="m0502_b001">婚姻建議</string>
+    <string name="m0502_t003">結果:</string>
+    <string name="m0502_f001">還年輕不用急.(男)</string>
+    <string name="m0502_f002">此時結婚最好.(男)</string>
+    <string name="m0502_f003">快點找伴侶,已經遲啦.(男)</string>
+    <string name="m0502_f004">還年輕不用急.(女)</string>
+    <string name="m0502_f005">此時結婚最好.(女)</string>
+    <string name="m0502_f006">快點找伴侶,已經遲啦.(女)</string>
+    <string name="m0502_t002">年齡:</string>
+<!--    <string name="chk01">男</string>-->
+    <string name="m0502_f000">建議您</string>
+    <string name="m0502_r001a">男</string>
+    <string name="m0502_r001b">女</string>
+    <string name="m0502_r002aa">小於28歲</string>
+    <string name="m0502_r002ab">28~33歲</string>
+    <string name="m0502_r002ac">大於33歲</string>
+    <string name="m0502_r002ba">小於25歲</string>
+    <string name="m0502_r002bb">25~30歲</string>
+    <string name="m0502_r002bc">大於30歲</string>
+
+</resources>

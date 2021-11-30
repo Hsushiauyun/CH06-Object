@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android-work/CH06-Object/0600_RelativeLayout/src/main/res/layout/m0600.xml" value="0.3338541666666667" />
+        <entry key="..\:/android-work/CH06-Object/0601_RelativeLayout_Game/src/main/res/layout/m0601.xml" value="0.5" />
+        <entry key="..\:/android-work/CH06-Object/0601a_Game_textcolor/src/main/res/layout/m0601.xml" value="0.3338541666666667" />
+        <entry key="..\:/android-work/CH06-Object/0602_ImageButton/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19739583333333333" />
+        <entry key="..\:/android-work/CH06-Object/0602_ImageButton/src/main/res/drawable/ic_launcher_background.xml" value="0.19739583333333333" />
+        <entry key="..\:/android-work/CH06-Object/0602_ImageButton/src/main/res/drawable/ic_launcher_m0601_foreground.xml" value="0.19739583333333333" />
+        <entry key="..\:/android-work/CH06-Object/0602_ImageButton/src/main/res/layout/m0602.xml" value="0.3338541666666667" />
+        <entry key="..\:/android-work/CH06-Object/0602_ImageButton/src/main/res/mipmap-anydpi-v26/ic_launcher_m0602_round.xml" value="0.3541666666666667" />
+        <entry key="..\:/android-work/CH06-Object/0603_Game_music/src/main/res/layout/m0603.xml" value="0.32916666666666666" />
+        <entry key="..\:/android-work/CH06-Object/0604_Toast_Type/src/main/res/layout/custom.xml" value="0.5" />
+        <entry key="..\:/android-work/CH06-Object/0604_Toast_Type/src/main/res/layout/m0604.xml" value="0.33" />
+        <entry key="..\:/android-work/CH06-Object/0604_Toast_Type/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19895833333333332" />
+        <entry key="..\:/android-work/CH06-Object/0605_GameToast/src/main/res/layout/m0605.xml" value="0.3338541666666667" />
+        <entry key="..\:/android-work/CH06-Object/0606_Game_final/src/main/res/layout/m0605.xml" value="0.3338541666666667" />
+        <entry key="..\:/android-work/CH06-Object/0606_Game_final/src/main/res/layout/m0606.xml" value="0.3338541666666667" />
+        <entry key="..\:/android-work/CH06-Object/0607_IntentAll/src/main/res/layout/custom.xml" value="0.3338541666666667" />
+        <entry key="..\:/android-work/CH06-Object/0607_IntentAll/src/main/res/layout/m0500.xml" value="0.3338541666666667" />
+        <entry key="..\:/android-work/CH06-Object/0607_IntentAll/src/main/res/layout/m0501.xml" value="0.3338541666666667" />
+        <entry key="..\:/android-work/CH06-Object/0607_IntentAll/src/main/res/layout/m0502.xml" value="0.3338541666666667" />
+        <entry key="..\:/android-work/CH06-Object/0607_IntentAll/src/main/res/layout/m0504.xml" value="0.3338541666666667" />
+        <entry key="..\:/android-work/CH06-Object/0607_IntentAll/src/main/res/layout/m0505.xml" value="0.3338541666666667" />
+        <entry key="..\:/android-work/CH06-Object/0607_IntentAll/src/main/res/layout/m0604.xml" value="0.3338541666666667" />
+        <entry key="..\:/android-work/CH06-Object/0607_IntentAll/src/main/res/layout/m0606.xml" value="0.3338541666666667" />
+        <entry key="..\:/android-work/CH06-Object/0607_IntentAll/src/main/res/layout/m0607.xml" value="0.3489583333333333" />
+        <entry key="..\:/android-work/CH06-Object/0607_IntentAll/src/main/res/layout/spinner_item.xml" value="0.3338541666666667" />
+        <entry key="..\:/android-work/CH06-Object/0607_IntentAll/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3541666666666667" />
+        <entry key="..\:/android-work/CH06-Object/0607_IntentAll/src/main/res/mipmap-anydpi-v26/ic_launcher_m22.xml" value="0.3541666666666667" />
+        <entry key="..\:/android-work/CH06-Object/0607_IntentAll/src/main/res/mipmap-anydpi-v26/ic_launcher_m22_round.xml" value="0.3541666666666667" />
+        <entry key="..\:/android-work/CH06-Object/app/src/main/res/layout/activity_main.xml" value="0.3338541666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

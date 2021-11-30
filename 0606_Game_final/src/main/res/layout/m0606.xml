@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back02"
+    android:padding="@dimen/Margins"
+    tools:context=".M0603">
+
+    <TextView
+        android:id="@+id/m0606_t001"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="@dimen/Margins"
+        android:background="@color/Yellow"
+        android:gravity="center"
+        android:padding="@dimen/p10"
+        android:paddingStart="@dimen/Margins"
+        android:paddingTop="@dimen/p20"
+        android:paddingEnd="@dimen/p20"
+        android:text="@string/電腦"
+        android:textColor="@color/Navy"
+        android:textSize="@dimen/Headfont" />
+
+
+    <TextView
+        android:id="@+id/m0606_t002"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/m0606_t001"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/Aqua"
+        android:gravity="center"
+        android:text="@string/m0606_c001"
+        android:textSize="@dimen/fontsize" />
+
+    <TextView
+        android:id="@+id/m0606_t003"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/m0606_t001"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="30dp"
+        android:background="@color/Aqua"
+        android:gravity="center"
+        android:text="@string/玩家"
+        android:textSize="@dimen/fontsize" />
+
+    <ImageButton
+        android:id="@+id/m0606_b001"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/m0606_t003"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="45dp"
+        android:background="#00000000"
+        android:src="@drawable/scissors"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <ImageButton
+        android:id="@+id/m0606_b002"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/m0606_b001"
+        android:layout_alignEnd="@+id/m0606_b001"
+        android:layout_marginTop="@dimen/Margins"
+        android:layout_marginEnd="0dp"
+        android:background="#00000000"
+        android:contentDescription="TODO"
+        android:src="@drawable/stone"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <ImageButton
+        android:id="@+id/m0606_b003"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/m0606_b002"
+        android:layout_alignEnd="@+id/m0606_b002"
+        android:layout_marginTop="@dimen/p10"
+        android:layout_marginEnd="0dp"
+        android:background="#00000000"
+        android:src="@drawable/net"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+
+    <ImageView
+        android:id="@+id/m0606_c001"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/m0606_t002"
+        android:layout_alignTop="@+id/m0606_b002"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="@dimen/p20"
+        android:background="#00000000"
+        android:gravity="center"
+        android:text="@string/m0606_c001"
+        android:textColor="@color/Black"
+        android:textSize="@dimen/fontsize"
+        app:srcCompat="@drawable/scissors" />
+
+    <TextView
+        android:id="@+id/m0606_s001"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/m0606_b003"
+        android:layout_marginTop="10dp"
+        android:background="@color/White"
+        android:text="@string/m0606_s001"
+        android:textColor="@color/Red"
+        android:textSize="@dimen/fontsize" />
+
+    <TextView
+        android:id="@+id/m0606_f000"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/m0606_s001"
+        android:layout_marginTop="@dimen/p10"
+        android:background="@color/White"
+        android:text="@string/m0606_f000"
+        android:textSize="@dimen/fontsize" />
+
+    <TextView
+        android:id="@+id/m0606_t004"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="27dp"
+        android:layout_marginBottom="1dp"
+        android:text="@string/name"
+        android:textColor="@color/Fuchsia"
+        android:textSize="@dimen/fontsize" />
+
+</RelativeLayout>

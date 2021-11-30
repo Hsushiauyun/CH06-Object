@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="tw.tcnr02.m0607">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_m22"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_m22_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".M0607"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+        <activity android:name=".M0500"></activity>
+        <activity android:name=".M0501"></activity>
+        <activity android:name=".M0502"></activity>
+        <activity android:name=".M0504"></activity>
+        <activity android:name=".M0505"></activity>
+        <activity android:name=".M0604"></activity>
+        <activity android:name=".M0606"></activity>
+    </application>
+
+</manifest>
+

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Gray"
+    android:orientation="vertical"
+    android:padding="@dimen/p20">
+
+    <Button
+        android:id="@+id/m0604_b001"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/btn_default"
+        android:text="@string/m0604_b001"
+        android:textSize="@dimen/fontsize"
+        tools:ignore="TextContrastCheck" />
+
+    <Button
+        android:id="@+id/m0604_b002"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/m0604_b002"
+        android:textSize="@dimen/fontsize"
+        tools:ignore="TextContrastCheck"
+        android:background="@android:drawable/btn_default"/>
+
+    <Button
+        android:id="@+id/m0604_b003"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/m0604_b003"
+        android:textSize="@dimen/fontsize"
+        tools:ignore="TextContrastCheck"
+        android:background="@android:drawable/btn_default"/>
+
+    <Button
+        android:id="@+id/m0604_b004"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/m0604_b004"
+        android:textSize="@dimen/fontsize"
+        tools:ignore="TextContrastCheck"
+        android:background="@android:drawable/btn_default"/>
+
+    <TextView
+        android:id="@+id/m0604_t001"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/p200"
+        android:gravity="end"
+        android:text="@string/name"
+        android:textColor="@color/Blue"
+        android:textSize="@dimen/fontsize"
+        tools:ignore="TextContrastCheck"
+        />
+
+</LinearLayout>

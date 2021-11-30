@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/0600_RelativeLayout" />
+            <option value="$PROJECT_DIR$/0601_RelativeLayout_Game" />
+            <option value="$PROJECT_DIR$/0601a_Game_textcolor" />
+            <option value="$PROJECT_DIR$/0602_ImageButton" />
+            <option value="$PROJECT_DIR$/0603_Game_music" />
+            <option value="$PROJECT_DIR$/0604_Toast_Type" />
+            <option value="$PROJECT_DIR$/0605_GameToast" />
+            <option value="$PROJECT_DIR$/0606_Game_final" />
+            <option value="$PROJECT_DIR$/0607_IntentAll" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

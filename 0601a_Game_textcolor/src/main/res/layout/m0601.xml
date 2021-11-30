@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Black"
+    android:padding="@dimen/Margins"
+    tools:context=".M0601">
+
+    <TextView
+        android:id="@+id/m0601_t001"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="@dimen/Margins"
+        android:background="@color/Yellow"
+        android:gravity="center"
+        android:padding="@dimen/p10"
+        android:paddingStart="@dimen/Margins"
+        android:paddingTop="@dimen/p20"
+        android:paddingEnd="@dimen/p20"
+        android:text="@string/電腦"
+        android:textColor="@color/Navy"
+        android:textSize="@dimen/Headfont" />
+
+
+    <TextView
+        android:id="@+id/m0601_t002"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/m0601_t001"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/Aqua"
+        android:gravity="center"
+        android:text="@string/m0601_c001"
+        android:textSize="@dimen/fontsize" />
+
+    <TextView
+        android:id="@+id/m0601_t003"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/m0601_t001"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="30dp"
+        android:background="@color/Aqua"
+        android:gravity="center"
+        android:text="@string/玩家"
+        android:textSize="@dimen/fontsize" />
+
+    <Button
+        android:id="@+id/m0601_b001"
+        android:layout_width="@dimen/Buttonsize"
+        android:layout_height="@dimen/Buttonsize"
+        android:layout_below="@+id/m0601_t003"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="@dimen/p50"
+        android:layout_marginEnd="@dimen/p50"
+        android:background="@color/Gray"
+        android:text="@string/m0601_b001"
+        android:textSize="@dimen/fontsize"
+        tools:ignore="DuplicateSpeakableTextCheck" />
+
+    <Button
+        android:id="@+id/m0601_b002"
+        android:layout_width="@dimen/Buttonsize"
+        android:layout_height="@dimen/Buttonsize"
+        android:layout_below="@+id/m0601_b001"
+        android:layout_alignEnd="@+id/m0601_b001"
+        android:layout_marginTop="@dimen/Margins"
+        android:layout_marginEnd="0dp"
+        android:background="@color/Gray"
+        android:text="@string/m0601_b002"
+        android:textSize="@dimen/fontsize" />
+
+    <Button
+        android:id="@+id/m0601_b003"
+        android:layout_width="@dimen/Buttonsize"
+        android:layout_height="@dimen/Buttonsize"
+        android:layout_below="@+id/m0601_b002"
+        android:layout_alignEnd="@+id/m0601_b002"
+        android:layout_marginTop="@dimen/p10"
+        android:layout_marginEnd="0dp"
+        android:background="@color/Gray"
+        android:text="@string/m0601_b003"
+        android:textSize="@dimen/fontsize" />
+
+
+    <TextView
+        android:id="@+id/m0601_c001"
+        android:layout_width="@dimen/Buttonsize"
+        android:layout_height="@dimen/Buttonsize"
+        android:layout_alignStart="@+id/m0601_t002"
+        android:layout_alignTop="@+id/m0601_b002"
+        android:layout_marginStart="@dimen/p20"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="@dimen/p20"
+        android:background="@color/Gray"
+        android:gravity="center"
+        android:text="@string/m0601_c001"
+        android:textColor="@color/Black"
+        android:textSize="@dimen/fontsize" />
+
+    <TextView
+        android:id="@+id/m0601_s001"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/m0601_b003"
+        android:layout_marginTop="@dimen/p20"
+        android:background="@color/White"
+        android:text="@string/m0601_s001"
+        android:textColor="@color/Red"
+        android:textSize="@dimen/fontsize" />
+
+    <TextView
+        android:id="@+id/m0601_f000"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/m0601_s001"
+        android:layout_marginTop="@dimen/p10"
+        android:background="@color/White"
+        android:text="@string/m0601_f000"
+        android:textSize="@dimen/fontsize" />
+
+    <TextView
+        android:id="@+id/m0601_t004"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:text="@string/name"
+        android:textColor="@color/Fuchsia"
+        android:textSize="@dimen/fontsize" />
+
+</RelativeLayout>

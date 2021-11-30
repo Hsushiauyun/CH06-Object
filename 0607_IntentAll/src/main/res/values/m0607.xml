@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m0000_b0500">  5.0 Converter單位換算</string>
+    <string name="m0000_b0501">  5.1 MarriSug婚姻建議</string>
+    <string name="m0000_b0502">  5.2 MarriSug婚姻建議(全)</string>
+    <string name="m0000_b0504">  5.4 HobbySel多重選擇</string>
+    <string name="m0000_b0505">  5.5 AutoComplete自動輸入文字</string>
+    <string name="m0000_b0604">  6.4 Toast_Type</string>
+    <string name="m0000_b0606">  6.6 Game_final</string>
+</resources>

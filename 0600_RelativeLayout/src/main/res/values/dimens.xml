@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pad01">10dp</dimen>
+    <dimen name="fontsize">24sp</dimen>
+    <dimen name="width">80dp</dimen>
+</resources>

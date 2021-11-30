@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Gray"
+    android:orientation="vertical"
+    android:padding="@dimen/p10"
+    tools:context=".M0607">
+
+    <Button
+        android:id="@+id/m0607_b001"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/btn_default"
+        android:gravity="start"
+        android:text="@string/m0000_b0500"
+        android:textAllCaps="false"
+        android:textSize="@dimen/fontsize2"
+        tools:ignore="TextContrastCheck" />
+
+    <Button
+        android:id="@+id/m0607_b002"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/btn_default"
+        android:gravity="start"
+        android:text="@string/m0000_b0501"
+        android:textSize="@dimen/fontsize2"
+        tools:ignore="TextContrastCheck"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/m0607_b003"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/btn_default"
+        android:gravity="start"
+        android:text="@string/m0000_b0502"
+        android:textSize="@dimen/fontsize2"
+        tools:ignore="TextContrastCheck"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/m0607_b004"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/btn_default"
+        android:gravity="start"
+        android:text="@string/m0000_b0504"
+        android:textSize="@dimen/fontsize2"
+        tools:ignore="TextContrastCheck"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/m0607_b005"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/btn_default"
+        android:gravity="start"
+        android:text="@string/m0000_b0505"
+        tools:ignore="TextContrastCheck"
+        android:textAllCaps="false"
+        android:textSize="@dimen/fontsize2"/>
+
+    <Button
+        android:id="@+id/m0607_b006"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/btn_default"
+        android:gravity="start"
+        android:text="@string/m0000_b0604"
+        android:textSize="@dimen/fontsize2"
+        tools:ignore="TextContrastCheck"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/m0607_b007"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/btn_default"
+        android:gravity="start"
+        android:text="@string/m0000_b0606"
+        android:textSize="@dimen/fontsize2"
+        tools:ignore="TextContrastCheck"
+        android:textAllCaps="false"/>
+
+    <TextView
+        android:id="@+id/m0607_t001"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="end"
+        android:textSize="@dimen/fontsize2"
+        tools:ignore="TextContrastCheck"
+        android:text="@string/name"
+        android:textColor="@color/Yellow"
+        android:layout_marginTop="@dimen/pa50"
+        android:textAllCaps="false"
+         />
+</LinearLayout>
