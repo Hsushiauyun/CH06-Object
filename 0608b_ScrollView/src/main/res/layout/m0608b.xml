@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--    xmlns:tools="http://schemas.android.com/tools"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    tools:context=".M0504">-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Gray"
+    android:orientation="vertical"
+    android:padding="@dimen/p20"
+    android:scrollbarAlwaysDrawHorizontalTrack="true"
+    android:scrollbarAlwaysDrawVerticalTrack="true"
+    tools:context=".M0504"
+    tools:layout_editor_absoluteX="0dp"
+    tools:layout_editor_absoluteY="-34dp">
+
+    <TextView
+        android:id="@+id/m0608b_t001"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="@dimen/p20"
+        android:background="@color/Silver"
+        android:text="@string/m0608b_t001"
+        android:textSize="@dimen/fontsize"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/m0608b_b001"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginTop="@dimen/p20"
+        android:background="@color/Yellow"
+        android:paddingTop="@dimen/p10"
+        android:text="@string/m0608b_b001"
+        android:textSize="@dimen/fontsize"
+        android:textStyle="bold" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:paddingTop="@dimen/p10"
+        android:scrollbarAlwaysDrawHorizontalTrack="false"
+        android:scrollbarAlwaysDrawVerticalTrack="false">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <CheckBox
+                android:id="@+id/m0608b_chb01"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Silver"
+                android:buttonTint="@color/purple_500"
+                android:checked="true"
+                android:text="@string/m0608b_chb01"
+                android:textSize="@dimen/fontsize"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <CheckBox
+                android:id="@+id/m0608b_chb02"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Silver"
+                android:buttonTint="@color/purple_500"
+                android:text="@string/m0608b_chb02"
+                android:textSize="@dimen/fontsize"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <CheckBox
+                android:id="@+id/m0608b_chb03"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Silver"
+                android:buttonTint="@color/purple_500"
+                android:text="@string/m0608b_chb03"
+                android:textSize="@dimen/fontsize"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <CheckBox
+                android:id="@+id/m0608b_chb04"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Silver"
+                android:buttonTint="@color/purple_500"
+                android:text="@string/m0608b_chb04"
+                android:textSize="@dimen/fontsize"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <CheckBox
+                android:id="@+id/m0608b_chb05"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Silver"
+                android:buttonTint="@color/purple_500"
+                android:text="@string/m0608b_chb05"
+                android:textSize="@dimen/fontsize"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <CheckBox
+                android:id="@+id/m0608b_chb06"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Silver"
+                android:buttonTint="@color/purple_500"
+                android:text="@string/m0608b_chb06"
+                android:textSize="@dimen/fontsize"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <CheckBox
+                android:id="@+id/m0608b_chb07"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Silver"
+                android:buttonTint="@color/purple_500"
+                android:text="@string/m0608b_chb07"
+                android:textSize="@dimen/fontsize"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <CheckBox
+                android:id="@+id/m0608b_chb08"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Silver"
+                android:buttonTint="@color/purple_500"
+                android:text="@string/m0608b_chb08"
+                android:textSize="@dimen/fontsize"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <CheckBox
+                android:id="@+id/m0608b_chb09"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Silver"
+                android:buttonTint="@color/purple_500"
+                android:text="@string/m0608b_chb09"
+                android:textSize="@dimen/fontsize"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <CheckBox
+                android:id="@+id/m0608b_chb10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Silver"
+                android:buttonTint="@color/purple_500"
+                android:text="@string/m0608b_chb10"
+                android:textSize="@dimen/fontsize"
+                tools:ignore="TouchTargetSizeCheck" />
+
+
+            <CheckBox
+                android:id="@+id/m0608b_chb11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Silver"
+                android:buttonTint="@color/purple_500"
+                android:text="@string/m0608b_chb11"
+                android:textSize="@dimen/fontsize"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <CheckBox
+                android:id="@+id/m0608b_chb12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Silver"
+                android:buttonTint="@color/purple_500"
+                android:text="@string/m0608b_chb12"
+                android:textSize="@dimen/fontsize"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <CheckBox
+                android:id="@+id/m0608b_chb13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Silver"
+                android:buttonTint="@color/purple_500"
+                android:text="@string/m0608b_chb13"
+                android:textSize="@dimen/fontsize"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <CheckBox
+                android:id="@+id/m0608b_chb14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Silver"
+                android:buttonTint="@color/purple_500"
+                android:text="@string/m0608b_chb14"
+                android:textSize="@dimen/fontsize"
+                tools:ignore="TouchTargetSizeCheck" />
+
+
+            <CheckBox
+                android:id="@+id/m0608b_chb15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Silver"
+                android:buttonTint="@color/purple_500"
+                android:text="@string/m0608b_chb15"
+                android:textSize="@dimen/fontsize"
+                tools:ignore="TouchTargetSizeCheck" />
+
+
+            <CheckBox
+                android:id="@+id/m0608b_chb16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Silver"
+                android:buttonTint="@color/purple_500"
+                android:text="@string/m0608b_chb16"
+                android:textSize="@dimen/fontsize"
+                tools:ignore="TouchTargetSizeCheck" />
+
+
+            <CheckBox
+                android:id="@+id/m0608b_chb17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Silver"
+                android:buttonTint="@color/purple_500"
+                android:text="@string/m0608b_chb17"
+                android:textSize="@dimen/fontsize"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <CheckBox
+                android:id="@+id/m0608b_chb18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Silver"
+                android:buttonTint="@color/purple_500"
+                android:text="@string/m0608b_chb18"
+                android:textSize="@dimen/fontsize"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <CheckBox
+                android:id="@+id/m0608b_chb19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Silver"
+                android:buttonTint="@color/purple_500"
+                android:text="@string/m0608b_chb19"
+                android:textSize="@dimen/fontsize"
+                tools:ignore="TouchTargetSizeCheck" />
+
+
+            <CheckBox
+                android:id="@+id/m0608b_chb20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Silver"
+                android:buttonTint="@color/purple_500"
+                android:text="@string/m0608b_chb20"
+                android:textSize="@dimen/fontsize"
+                tools:ignore="TouchTargetSizeCheck" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+    <TextView
+        android:id="@+id/m0608b_t002"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/p20"
+        android:gravity="end"
+        android:text="@string/yu_chen"
+        android:textSize="@dimen/fontsize"
+        android:textStyle="bold" />
+
+</LinearLayout>
+
+<!--</androidx.constraintlayout.widget.ConstraintLayout>-->

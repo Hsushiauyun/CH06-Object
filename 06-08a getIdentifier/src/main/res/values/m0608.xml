@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string name="m0608_b000">0</string>
+        <string name="m0608_b001">1</string>
+        <string name="m0608_b002">2</string>
+        <string name="m0608_b003">3</string>
+        <string name="m0608_b004">4</string>
+        <string name="m0608_b005">5</string>
+        <string name="m0608_b006">6</string>
+        <string name="m0608_b007">7</string>
+        <string name="m0608_b008">8</string>
+        <string name="m0608_b009">9</string>
+        <string name="m0608_b010">.</string>
+        <string name="m0608_b011">＋</string>
+        <string name="m0608_b012">-</string>
+        <string name="m0608_b013">×</string>
+        <string name="m0608_b014">÷</string>
+        <string name="m0608_b015">=</string>
+        <string name="m0608_b016">C</string>
+        <string name="m0608_b017">AC</string>
+        <string name="error">請先輸入數字</string>
+        <string name="m0608_error">不要亂打</string>
+
+    </resources>
+
