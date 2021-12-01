@@ -10,6 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/06-08a getIdentifier" />
             <option value="$PROJECT_DIR$/0600_RelativeLayout" />
             <option value="$PROJECT_DIR$/0601_RelativeLayout_Game" />
             <option value="$PROJECT_DIR$/0601a_Game_textcolor" />
@@ -20,6 +21,8 @@
             <option value="$PROJECT_DIR$/0606_Game_final" />
             <option value="$PROJECT_DIR$/0607_IntentAll" />
             <option value="$PROJECT_DIR$/0608_calculator" />
+            <option value="$PROJECT_DIR$/0608b_ScrollView" />
+            <option value="$PROJECT_DIR$/0609_IndexMicro" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

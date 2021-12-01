@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/android-work/CH06-Object/06-08a getIdentifier/src/main/res/layout/m0608.xml" value="0.2069078947368421" />
+        <entry key="..\:/android-work/CH06-Object/06-08a getIdentifier/src/main/res/mipmap-anydpi-v26/ic_launcher_m0608.xml" value="0.21973684210526315" />
+        <entry key="..\:/android-work/CH06-Object/06-08a getIdentifier/src/main/res/mipmap-anydpi-v26/ic_launcher_m0608_round.xml" value="0.21973684210526315" />
         <entry key="..\:/android-work/CH06-Object/0600_RelativeLayout/src/main/res/layout/m0600.xml" value="0.3338541666666667" />
         <entry key="..\:/android-work/CH06-Object/0601_RelativeLayout_Game/src/main/res/layout/m0601.xml" value="0.5" />
         <entry key="..\:/android-work/CH06-Object/0601a_Game_textcolor/src/main/res/layout/m0601.xml" value="0.3338541666666667" />
@@ -32,6 +35,7 @@
         <entry key="..\:/android-work/CH06-Object/0607_IntentAll/src/main/res/mipmap-anydpi-v26/ic_launcher_m22.xml" value="0.3541666666666667" />
         <entry key="..\:/android-work/CH06-Object/0607_IntentAll/src/main/res/mipmap-anydpi-v26/ic_launcher_m22_round.xml" value="0.3541666666666667" />
         <entry key="..\:/android-work/CH06-Object/0608_calculator/src/main/res/layout/m0608.xml" value="0.33" />
+        <entry key="..\:/android-work/CH06-Object/0608b_ScrollView/src/main/res/layout/m0608b.xml" value="0.19539473684210526" />
         <entry key="..\:/android-work/CH06-Object/app/src/main/res/layout/activity_main.xml" value="0.3338541666666667" />
       </map>
     </option>
