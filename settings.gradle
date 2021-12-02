@@ -19,6 +19,6 @@ include ':0607_IntentAll'
 include ':0608_calculator'
 include ':06-08a getIdentifier'
 include ':0608b_ScrollView'
-
-
 include ':0609_IndexMicro'
+
+include ':myapplication'

@@ -13,4 +13,5 @@
     <dimen name="p50">50dp</dimen>
     <dimen name="p200">200dp</dimen>
     <dimen name="pa50">50dp</dimen>
+    <dimen name="fontsize20">20sp</dimen>
 </resources>

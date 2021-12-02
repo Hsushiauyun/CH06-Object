@@ -606,5 +606,7 @@
 <string name="m150501">結束</string>
 <string name="m160601">結束</string>
 <string name="m170301">結束</string>
+    <string name="noback">禁用返回建</string>
+
 
 </resources>

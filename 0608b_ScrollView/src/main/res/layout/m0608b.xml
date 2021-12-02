@@ -15,7 +15,7 @@
     android:padding="@dimen/p20"
     android:scrollbarAlwaysDrawHorizontalTrack="true"
     android:scrollbarAlwaysDrawVerticalTrack="true"
-    tools:context=".M0504"
+    tools:context=".M0608b"
     tools:layout_editor_absoluteX="0dp"
     tools:layout_editor_absoluteY="-34dp">
 

@@ -29,7 +29,7 @@
                 android:background="@android:drawable/btn_default"
                 android:text="@string/m05"
                 android:textColor="@color/Blue"
-                android:textSize="@dimen/fontsize"
+                android:textSize="@dimen/fontsize20"
                 android:visibility="gone" />
 
         </LinearLayout>
